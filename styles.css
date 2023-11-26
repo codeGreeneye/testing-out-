@@ -3,15 +3,21 @@ padding: 0;
 margin: 0;
 box-sizing: border-box;
 }
+
+
 @font-face {
     font-family: myfont;
     src: url(Black_Ops_One\ \(1\).zip);
 }
+
+
  html,
  body {
  height: 100%;
  width: 100%;
 }
+
+
 body {
 position: relative;
 font-family: myfont, cursive;
@@ -24,6 +30,8 @@ font-family: myfont, cursive;
  background-position: center;
  background-size: cover;
  }
+
+
  .first {
  height: 100%;
  width: 100%;
@@ -31,6 +39,7 @@ font-family: myfont, cursive;
  position: relative;
  }
  
+
  .first .a {
  position: absolute;
  top: 50%;
@@ -62,6 +71,9 @@ font-family: myfont, cursive;
  font-family: myfont, Helvetica, sans-serif;
  letter-spacing: 8px;
   }
+
+
+  
   .a > button:hover {
   background-color: aqua;
   color: brown;
