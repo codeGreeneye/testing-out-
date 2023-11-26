@@ -42,12 +42,14 @@ font-family: myfont, cursive;
 
 
  .a > h1  {
- font-size: 40px;
+ font-size: 70px;
+ letter-spacing: 5px;
   }
 
 
   .a > p  {
  font-size: 25px;
+ letter-spacing: 4px;
   }
 
 
@@ -58,4 +60,5 @@ font-family: myfont, cursive;
  color: black;
  border: 2px solid black;
  font-family: myfont, Helvetica, sans-serif;
+ letter-spacing: 8px;
   }
